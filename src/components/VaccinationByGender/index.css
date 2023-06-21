@@ -1,0 +1,11 @@
+/* Write your CSS here */
+.vac-cont {
+  display: flex;
+  flex-direction: column;
+}
+
+.vac-heading {
+  font-size: 15spx;
+  color: #cbd5e1;
+  font-family: 'Roboto';
+}
